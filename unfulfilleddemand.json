@@ -1,52 +1,7 @@
 [
   {
     "warehouse": "WHUK2",
-    "backorderQuantity": 3,
-    "edp": "40439709"
-  },
-  {
-    "warehouse": "WHUK2",
-    "backorderQuantity": 4,
-    "edp": "40560473"
-  },
-  {
-    "warehouse": "WHUK2",
-    "backorderQuantity": 7,
-    "edp": "40512685"
-  },
-  {
-    "warehouse": "WHUK2",
-    "backorderQuantity": 2,
-    "edp": "40543213"
-  },
-  {
-    "warehouse": "WHUK2",
-    "backorderQuantity": 9,
-    "edp": "40540725"
-  },
-  {
-    "warehouse": "WHUK2",
-    "backorderQuantity": 8,
-    "edp": "40552431"
-  },
-  {
-    "warehouse": "WHUK2",
-    "backorderQuantity": 3,
-    "edp": "40490091"
-  },
-  {
-    "warehouse": "WHUK2",
-    "backorderQuantity": 4,
-    "edp": "40567490"
-  },
-  {
-    "warehouse": "WHUK2",
-    "backorderQuantity": 9,
-    "edp": "40570541"
-  },
-  {
-    "warehouse": "WHUK2",
-    "backorderQuantity": 4,
-    "edp": "40548889"
+    "backorderQuantity": 333,
+    "edp": "EmbroideredLinedHoodieExternalId"
   }
 ]
