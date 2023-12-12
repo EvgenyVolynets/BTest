@@ -1,15 +1,5 @@
 [
   {
-    "warehouse": "WHUK2",
-    "backorderQuantity": 456,
-    "edp": "Boots1ExternalId"
-  },
-  {
-    "warehouse": "WHUK2",
-    "backorderQuantity": 123,
-    "edp": "40439710"
-  },
-  {
     "warehouse": "udzhen",
     "backorderQuantity": 111,
     "edp": "Evgeny0"
